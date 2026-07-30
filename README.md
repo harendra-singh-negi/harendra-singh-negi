@@ -7,10 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=6%2B+Years+Building+Scalable+Web+Apps;React.js+%7C+Node.js+%7C+Next.js+%7C+NestJS;CRM+Systems+%26+Real-Time+Applications;Currently+%40+Safe+Lanes+Innovation" alt="Typing SVG" />
 
 <p>
-  <a href="https://www.linkedin.com/in/hsnegi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://harendra-singh-negi.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://twitter.com/HarendraSinghN7" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:harendrasinghnegi83@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hsnegi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://harendra-singh-negi.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://twitter.com/HarendraSinghN7" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:harendrasinghnegi83@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=harendra-singh-negi&label=Profile%20Views&color=0077B5&style=flat-square" alt="Profile Views" />
@@ -32,13 +32,17 @@
 
 ---
 
-## 🏆 Achievements
+## 💼 Work Experience
 
-- Delivered **10+ CRM systems** and **50+ projects** in production
-- Built and shipped a **multi-tenant School ERP SaaS platform** end-to-end (26+ modules)
-<!-- TODO: Add awards, hackathon wins, certifications, publications, or notable recognitions -->
+<!-- TODO: Replace with your real roles/companies/dates -->
 
----
+| Role | Company | Duration |
+|---|---|---|
+| Senior Full Stack Developer / Team Lead | Safe Lanes Innovation | Present |
+| _(add previous role)_ | _(add company)_ | _(add dates)_ |
+| _(add previous role)_ | _(add company)_ | _(add dates)_ |
+
+
 
 ## 🏆 GitHub Trophies & Achievements
 
@@ -177,7 +181,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harendra-singh-negi&theme=tokyonight&hide_border=true" />
 </p>
-
 
 
 ### 🐍 Contribution Snake
